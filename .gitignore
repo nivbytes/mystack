@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+graphify-out/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Any random test files or outputs that might be created later
+*.log
+*.tmp
+scratch/
